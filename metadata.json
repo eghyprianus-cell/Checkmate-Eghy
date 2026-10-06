@@ -1,0 +1,6 @@
+{
+  "name": "Petir Biru Chess - Azure Thunder",
+  "description": "Game catur bertema petir biru elektrik dengan efek visual sambaran kilat, aura energi plasma, sound effect petir prosedural, dan mode pertempuran badai.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
